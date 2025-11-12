@@ -1,3 +1,3 @@
-# DevSecOps Demo using GitHub Actions + Trivy
+# DevSecOps Demo – Trivy + GitHub Actions
 
-This repository demonstrates automated vulnerability scanning in a CI/CD pipeline.
+Automated vulnerability scanning in CI/CD.
