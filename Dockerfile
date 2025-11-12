@@ -1,5 +1,5 @@
 # Intentionally using older base to trigger vulnerabilities
-FROM node:14-alpine
+FROM node:11-alpine
 
 WORKDIR /app
 COPY package*.json ./
