@@ -1,11 +1,7 @@
 {
   "name": "trivy_demo",
   "version": "1.0.0",
-  "description": "Demo project for DevSecOps with Trivy and GitHub Actions",
   "main": "index.js",
-  "scripts": {
-    "start": "node index.js"
-  },
   "dependencies": {
     "lodash": "4.17.19"
   }
